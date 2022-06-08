@@ -102,6 +102,7 @@ https://github.com/bgporter/animator Animation module implementing classic easin
 https://github.com/fefanto/fontaudio Icon toolkit for audio with permissive licensing
 https://github.com/JanosGit/Resvg4JUCE Wrapper for the resvg rendering library
 https://github.com/SoundDevelopment/bbcode-editor TextEditor descendant that accepts BBCode
+https://github.com/ZioGuido/JuceHtmlTextEditor Simple HTML 4 parsing of the basic tags for formatting text and adding hyperlinks
 
 ## Tooling & Debugging
 

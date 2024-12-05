@@ -23,6 +23,7 @@ https://github.com/tomoyanonymous/juce_cmake_vscode_example Boilerplate for deve
 https://github.com/ncblair/NTHN_TEMPLATE_PLUGIN Audio Plugin CMake Template with a focus on Parameters and State Management
 https://github.com/JanWilczek/audio-plugin-template C++23, JUCE, CPM, googletest on GitHub Actions 
 https://github.com/Torsion-Audio/nn-inference-template Neural network inference template for TensorFlow Lite, LibTorch, ONNX Runtime
+https://github.com/eyalamirmusic/JUCE-ConsoleApp A JUCE example for CLI/console app along with the message thread
 
 ## Instruments
 
@@ -132,6 +133,7 @@ https://github.com/unplugred/vsts A treasure trove of effects and other fun plug
 https://github.com/ZL-Audio/ZLEComp Compressor plugin with gain reduction history
 https://github.com/ArdenButterfield/Maim Audio plugin for custom MP3 distortion and digital glitches
 https://github.com/ZL-Audio/ZLEqualizer 16-band minimum-phase dynamic equalizer
+https://github.com/tote-bag-labs/valentine An open source compressor meant to pump and breathe
 https://git.iem.at/audioplugins/IEMPluginSuite Large suite of plugins, including Ambisonic
 
 ## Metering 
@@ -186,7 +188,8 @@ https://github.com/asimilon/html_entity_decoder A simple HTML entity String deco
 https://github.com/jkoutavas/haydxn_juce_animation JUCE animation package originally contributed by 'haydxn'
 https://github.com/getdunne/juce-draggableListBox JUCE ListBox whose items can be reordered by drag-and-drop
 https://github.com/MNSignalProcessing/BarelyML Markdown-inspired markup for JUCE
-https://github.com/sudara/melatonin_blur Fast cross-platform CPU blurs and drop/inner shadows for JUCE 
+https://github.com/sudara/melatonin_blur Fast cross-platform CPU blurs and drop/inner shadows for JUCE
+https://github.com/Kiberchaika/juce_murka A lightweight GPU-accelerated library inspired from ImGui for interactive audio plugin UI design for JUCE
 
 ## Tooling & Debugging
 
@@ -196,6 +199,7 @@ https://github.com/sudara/melatonin_inspector Inspect your JUCE components ala W
 https://github.com/sudara/melatonin_audio_sparklines Display audio as ASCII waveforms on the console and in your tests
 https://github.com/McMartin/FRUT The OG way to setup CMake with JUCE (pre JUCE 6)
 https://github.com/AndrewJJ/DSP-Testbench Test your dsp with signal sources, routing, analysis and monitoring
+https://github.com/soundspear/formula VST and AU plugin to live code and test effects inside your DAW
 
 ## Frameworks
 
@@ -272,6 +276,7 @@ https://github.com/sudara/melatonin_audio_block_test_helpers Catch2 matchers for
 https://github.com/Sinecure-Audio/TestsTalk Catch2 Examples from ADC 2020 talk
 https://github.com/sudara/melatonin_parameters Log parameter conversion and formatting example with tests
 https://github.com/Focusrite-Novation/juce-end-to-end End to end functional testing via js
+https://github.com/kunitoki/straw Straw is a juce automation framework for integration testing
 
 ## Educational
 
@@ -327,6 +332,7 @@ https://github.com/jatinchowdhury18/KlonCentaur Analog guitar pedal emulation us
 https://github.com/magenta/ddsp-vst Realtime DDSP Neural Synthesizer and Effect
 https://github.com/csteinmetz1/micro-tcn Efficient real-time modeling of analog dynamic range compression
 https://github.com/Torsion-Audio/Scyclone Real-time Neural Timbre Transfer plugin based on RAVE
+https://github.com/greynewell/musegpt Local LLMs in your DAW in VST, AU, AAX with llama.cpp
 
 ## Hardware
 
